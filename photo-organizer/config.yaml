@@ -1,0 +1,70 @@
+# ============================================================
+# Photo Organizer — Configuration
+# ============================================================
+
+# Folders to organize. Each is processed independently;
+# category subfolders are created inside each one.
+# Use full paths. Backslashes are fine on Windows.
+source_folders:
+  # - C:\Users\Chris\Pictures\Camera Roll
+  # - C:\Users\Chris\Pictures\Phone Backup
+  # - C:\Users\Chris\Pictures\2024 Vacation
+  - ~/Pictures   # placeholder — replace with your real folders
+
+# Category folders the organizer creates.
+# Claude picks the best match for each photo.
+# You can add, remove, or rename these.
+categories:
+  - People
+  - Groups
+  - Selfies
+  - Kids
+  - Landscapes
+  - Nature
+  - Pets
+  - Food
+  - Events
+  - Work
+  - Screenshots
+  - Documents
+  - Memes
+  - Art
+  - Vehicles
+  - Buildings
+  - Other
+
+# Claude API settings
+api:
+  # Model to use. Haiku is cheapest for classification tasks.
+  model: claude-haiku-5-5
+  # Max tokens for the response (keep low — we only need a short JSON reply)
+  max_tokens: 150
+
+# Image processing
+images:
+  # Max dimension (width or height) before sending to API.
+  # Smaller = fewer tokens = cheaper. 768 is a good balance.
+  max_dimension: 768
+  # File extensions to process (case-insensitive)
+  extensions:
+    - .jpg
+    - .jpeg
+    - .png
+    - .gif
+    - .webp
+    - .heic
+    - .heif
+    - .bmp
+    - .tiff
+    - .tif
+
+# Behavior
+organize:
+  # true = move files into subfolders.  false = copy (keeps originals in place)
+  move_files: true
+  # Rename files with a short description? e.g. "sunset_over_lake.jpg"
+  rename_files: true
+  # Max filename length for renamed files (extension excluded)
+  max_name_length: 60
+  # Pause between API calls (seconds). Avoids rate limits on large batches.
+  delay_between_calls: 0.3
