@@ -10,7 +10,7 @@
  *
  * Products:
  *   tg  — Teacher's Guide
- *   sw  — Student Workbook (not yet implemented)
+ *   sw  — Student Workbook
  *
  * Output goes to: output/<series-slug>-<product>.docx
  */
@@ -23,7 +23,7 @@ const PRODUCTS = {
     label: "Teacher's Guide",
     builder: () => require('./engine/tg-builder').buildTeachersGuide,
   },
-  // sw: { label: 'Student Workbook', builder: () => require('./engine/sw-builder').buildStudentWorkbook },
+  sw: { label: 'Student Workbook', builder: () => require('./engine/sw-builder').buildStudentWorkbook },
 };
 
 async function main() {

@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "imprint": "ALEXANDER",
+    "imprintTag": "Learn",
+    "title": "Prayer",
+    "subtitle": "Drawing Near to God",
+    "productType": "Student Workbook",
+    "productDesc": "A Four-Lesson Study for Adult Bible Classes"
+  },
+  "insideFrontCover": {
+    "heading": "Getting Started",
+    "paragraphs": [
+      {
+        "label": "Read your Scriptures and answer the questions before class.",
+        "text": "Writing your answers down helps you remember what stood out to you — and when something comes up in discussion, you'll find it easier to speak up because you've already thought it through."
+      },
+      "Please come to class ready to share. Everyone thinks about these things differently, and that's the point — hearing how someone else reads the same verse or wrestles with the same question is how we all grow.",
+      "It can feel uncomfortable at first, especially if you're new. But the people sitting next to you are figuring things out too, and your honesty helps them as much as theirs helps you."
+    ]
+  },
+  "lessons": [
+    {
+      "num": 1,
+      "title": "What Prayer Is",
+      "scriptures": [
+        "Philippians 4:6–7",
+        "1 Thessalonians 5:17",
+        "Hebrews 4:14–16",
+        "Matthew 6:5–8",
+        "Psalm 62:8",
+        "James 5:16b"
+      ],
+      "keyIdea": "Prayer is honest conversation with God — bringing everything you are to everything he is, with the confidence that he hears, he cares, and he acts.",
+      "keyTerms": [
+        {
+          "term": "\"Pour out your hearts\"",
+          "ref": "(Psalm 62:8)",
+          "definition": "Unfiltered honesty before God. Not cleaning up your thoughts before you bring them."
+        },
+        {
+          "term": "\"Throne of grace\"",
+          "ref": "(Hebrews 4:16)",
+          "definition": "God's presence, open to you through Jesus. Not a courtroom. A place of mercy."
+        },
+        {
+          "term": "\"Pray without ceasing\"",
+          "ref": "(1 Thessalonians 5:17)",
+          "definition": "Not constant muttering, but a life lived in ongoing awareness of God's presence."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "What comes to mind when you hear the word \"prayer\"? How would you explain it to someone who has never prayed?"
+        },
+        {
+          "num": 2,
+          "text": "Read Matthew 6:5–8. Jesus says the Father already knows what you need. Write down why you think prayer still matters if God already knows."
+        },
+        {
+          "num": 3,
+          "text": "Read Psalm 62:8. David says to \"pour out your hearts\" to God. Is there anything you feel like you shouldn't say to God? Write down what holds you back (or write \"nothing\" — that's fine too)."
+        },
+        {
+          "num": 4,
+          "text": "Read Hebrews 4:14–16. The writer says we can approach God with \"confidence.\" On a scale of 1 to 10, how confident do you feel when you pray? What affects that number?"
+        },
+        {
+          "num": 5,
+          "text": "Read Philippians 4:6–7. Paul says to bring \"everything\" to God. Write down something you've never thought to pray about — something you considered too small or too ordinary."
+        },
+        {
+          "num": 6,
+          "text": "Read James 5:16. James says prayer is \"powerful and effective.\" Does that match your experience? Write one sentence about how your prayers feel most of the time."
+        }
+      ],
+      "thinkAbout": "If prayer is really just honest conversation with God, what has been keeping you from being more honest in yours?",
+      "challenge": "Pray once a day this week for at least five minutes. Don't use a script. Don't try to sound like anyone else. Just talk to God — the big stuff and the small stuff. At the end of the week, ask yourself: did anything change? Not necessarily in my circumstances — but in me?",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to pray about this week:" },
+        { "text": "Questions I still have:" }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "How Jesus Prayed",
+      "scriptures": [
+        "Matthew 6:9–13",
+        "Mark 1:35",
+        "Luke 5:16",
+        "Luke 6:12",
+        "Luke 22:41–44",
+        "John 17:20–21"
+      ],
+      "keyIdea": "Jesus didn't just tell people to pray — he showed them how. He made time for it, gave his disciples a framework to build on, and prayed through the hardest night of his life with raw honesty and trust.",
+      "keyTerms": [
+        {
+          "term": "\"Pray like this\"",
+          "ref": "(Matthew 6:9)",
+          "definition": "Jesus offering a framework for prayer, not a script to recite. The Lord's Prayer is a structure to build on."
+        },
+        {
+          "term": "\"Withdrew to lonely places\"",
+          "ref": "(Luke 5:16)",
+          "definition": "Jesus' regular practice of getting alone with the Father. Not crisis-driven but habit-driven."
+        },
+        {
+          "term": "\"Not my will, but yours\"",
+          "ref": "(Luke 22:42)",
+          "definition": "Honesty about what you want, combined with trust in God's plan. Not passive resignation — active surrender."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "What does your current prayer routine look like? (Be honest — \"I don't really have one\" is a real answer.)"
+        },
+        {
+          "num": 2,
+          "text": "Read through the Lord's Prayer in Matthew 6:9–13. Which part is hardest for you to mean when you pray it? Why?"
+        },
+        {
+          "num": 3,
+          "text": "Read Mark 1:35 and Luke 5:16. Jesus regularly withdrew to pray alone — even on his busiest days. What makes that kind of regular, intentional prayer time hard to do in your life? (Think practical — schedule, distractions, energy.)"
+        },
+        {
+          "num": 4,
+          "text": "Read Luke 22:41–44. Jesus asked God to take the cup away — and God didn't. Does it surprise you that Jesus asked for something he didn't get? What does that tell you about what prayer is for?"
+        },
+        {
+          "num": 5,
+          "text": "The Lord's Prayer follows a framework: worship, alignment, needs, forgiveness, protection. Which step do you usually skip or rush through when you pray?"
+        },
+        {
+          "num": 6,
+          "text": "Try rewriting the Lord's Prayer in your own words — not as a recitation, but as if you were actually praying each section. What would each part sound like in your language?",
+          "lines": 6
+        }
+      ],
+      "thinkAbout": "If Jesus needed regular time alone with the Father, and Jesus needed to be honest about what he wanted even when the answer was no — what makes us think we can get by with less?",
+      "challenge": "Use the Lord's Prayer framework once a day this week — but in your own words. Don't recite it. Work through it: start with who God is, align yourself with his purposes, ask for today's needs, get honest about what you need forgiveness for, and ask for help with what's ahead. Keep it under five minutes if you want. The structure matters more than the length.",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to try differently in my prayers this week:" },
+        { "text": "Questions I still have:" }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Hindrances to Prayer",
+      "scriptures": [
+        "James 1:6–8",
+        "Isaiah 59:1–2",
+        "Psalm 66:18",
+        "James 4:2–3",
+        "1 Peter 3:7",
+        "Mark 11:24–25"
+      ],
+      "keyIdea": "Prayer can get stuck. Not because God stops listening, but because something on our end gets in the way — doubt, unconfessed sin, selfish motives, or simply not praying at all. These barriers aren't permanent. They're things we can honestly address.",
+      "keyTerms": [
+        {
+          "term": "\"Double-minded\"",
+          "ref": "(James 1:8)",
+          "definition": "Divided loyalty in prayer. Asking God for something while not really believing he'll come through. One foot in prayer, one foot in self-reliance."
+        },
+        {
+          "term": "\"Cherished sin\"",
+          "ref": "(Psalm 66:18)",
+          "definition": "Not struggling with sin (everyone does), but holding onto it — protecting it, accommodating it, refusing to bring it to God."
+        },
+        {
+          "term": "\"Wrong motives\"",
+          "ref": "(James 4:3)",
+          "definition": "Praying for things that serve only yourself, with no consideration of God's purposes. When prayer becomes a wish list rather than a conversation."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "Which of these four hindrances — doubt, unconfessed sin, wrong motives, or prayerlessness — do you think is most common among Christians? Why?"
+        },
+        {
+          "num": 2,
+          "text": "Read James 1:6–8. James calls a doubting person \"double-minded.\" In your own words, what does double-minded prayer look like?"
+        },
+        {
+          "num": 3,
+          "text": "Read Psalm 66:18 and Isaiah 59:1–2. David talks about \"cherishing\" sin. Is there a difference between struggling with sin and cherishing it? Where's the line?"
+        },
+        {
+          "num": 4,
+          "text": "Think about your prayers over the last month. Be honest: were they mostly about your own needs and concerns, or did they regularly extend beyond your own life — to other people, to God's purposes, to things bigger than yourself?"
+        },
+        {
+          "num": 5,
+          "text": "Read 1 Peter 3:7 and Mark 11:25. Both passages connect your relationships with other people to the effectiveness of your prayers. Has there ever been a relationship problem — a grudge, a conflict, something unresolved — that made it harder for you to pray?"
+        },
+        {
+          "num": 6,
+          "text": "Of the four hindrances, which one is most active in your life right now? And what is one concrete step you could take this week to start addressing it?"
+        }
+      ],
+      "thinkAbout": "Every hindrance to prayer has the same solution: honesty. You don't have to fix the problem before you pray about it — praying about it is how you start fixing it.",
+      "challenge": "Pick the one hindrance that hit closest to home. Write it down. Then pray about that specific thing every day this week — not around it, but directly about it. If it's doubt, tell God. If it's sin, confess it. If it's motives, ask him to change yours. If it's prayerlessness, just show up. Five minutes a day. Be specific.",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to address in my prayer life this week:" },
+        { "text": "Questions I still have:" }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Building a Prayer Life",
+      "scriptures": [
+        "Luke 18:1–8",
+        "Daniel 6:10",
+        "Colossians 4:2",
+        "1 Thessalonians 5:16–18",
+        "Romans 8:26–27",
+        "Nehemiah 1:4–11"
+      ],
+      "keyIdea": "A prayer life isn't something you achieve — it's something you build, lose, and rebuild. It takes persistence, a simple structure, and the confidence that even when you don't have words, the Spirit is at work.",
+      "keyTerms": [
+        {
+          "term": "\"Always pray and not give up\"",
+          "ref": "(Luke 18:1)",
+          "definition": "Jesus' instruction through the parable of the persistent widow. Persistence in prayer isn't about wearing God down — it's about staying in the conversation."
+        },
+        {
+          "term": "\"Devote yourselves to prayer\"",
+          "ref": "(Colossians 4:2)",
+          "definition": "Stronger than \"try\" or \"remember to.\" Devotion implies discipline — protecting your prayer time the way you protect anything that matters."
+        },
+        {
+          "term": "\"The Spirit intercedes\"",
+          "ref": "(Romans 8:26)",
+          "definition": "When you don't know what to pray, the Holy Spirit carries your prayers to God in a way that aligns with his will. You are not alone in the conversation."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "What usually breaks your prayer habits? Be specific — not \"life gets busy\" but what actually happens. (Travel? Kids? Exhaustion? Discouragement?)"
+        },
+        {
+          "num": 2,
+          "text": "Read Luke 18:1–8. The widow kept coming even though the judge ignored her. When prayer feels like nothing is happening, what keeps you coming back — or what makes you stop?"
+        },
+        {
+          "num": 3,
+          "text": "Read Daniel 6:10. Daniel prayed three times a day even when it could get him killed. What's your version of \"the lions' den\" — what pressures or circumstances make it hardest for you to pray?"
+        },
+        {
+          "num": 4,
+          "text": "A simple prayer practice has three parts: a time, a place, and a structure. Sketch out what yours could look like. When would you pray? Where? And what framework would you use? (The Lord's Prayer from Lesson 2 is one option.)",
+          "lines": 5
+        },
+        {
+          "num": 5,
+          "text": "Read Romans 8:26–27. Paul says the Spirit helps when you don't know what to pray. How does that change how you think about the times when prayer feels empty or wordless?"
+        },
+        {
+          "num": 6,
+          "text": "Looking back at all four weeks of this study, what's the one thing that changed how you think about prayer?"
+        }
+      ],
+      "thinkAbout": "The widow kept coming. Daniel kept his window open. The Spirit keeps interceding. A prayer life isn't about getting it right — it's about not stopping.",
+      "challengeHeading": "This Week's Challenge — The 30-Day Practice",
+      "challenge": "Commit to a 30-day prayer practice. Write down your time, your place, and your structure below. Pray every day for thirty days. When you miss a day, don't quit — just pick it up the next day. At the end of thirty days, ask yourself the same question from Lesson 1: did anything change? Not necessarily in my circumstances — but in me?",
+      "challengeFields": [
+        { "label": "My time:", "lines": 1 },
+        { "label": "My place:", "lines": 1 },
+        { "label": "My structure (framework I'll follow):", "lines": 2 }
+      ],
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I'm committing to:" },
+        { "text": "Questions I still have:" }
+      ]
+    }
+  ]
+}
