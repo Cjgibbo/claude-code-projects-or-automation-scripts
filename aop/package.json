@@ -1,0 +1,12 @@
+{
+  "name": "aop-docx-engine",
+  "version": "1.0.0",
+  "description": "Ancient Order Publishing — docx template engine for Bible study curriculum",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "docx": "^9.1.0"
+  }
+}

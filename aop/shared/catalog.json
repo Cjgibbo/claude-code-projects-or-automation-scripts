@@ -1,0 +1,37 @@
+{
+  "imprints": [
+    {
+      "name": "ALEXANDER",
+      "tag": "Learn",
+      "description": "In-depth studies for adult Bible classes. Each series includes a Teacher’s Guide and Student Workbook.",
+      "titles": [
+        "Prayer: Drawing Near to God",
+        "Forgiveness: Releasing and Received",
+        "The Sermon on the Mount: Kingdom Living",
+        "Grace: What God Gives",
+        "The Parables of Jesus",
+        "Christian Unity",
+        "The Nature of the Church",
+        "Stewardship & Giving",
+        "Discipleship: Following and Forming",
+        "Women of the Bible"
+      ]
+    },
+    {
+      "name": "MUSTARD",
+      "tag": "Discover",
+      "description": "Guided workbooks for newcomers and those returning to study. No teacher required.",
+      "titles": [
+        "Fruit of the Spirit",
+        "The Armor of God",
+        "Heroes of Faith"
+      ]
+    },
+    {
+      "name": "STONE & SCROLL",
+      "tag": "Dig",
+      "description": "Advanced studies for experienced students. Coming soon.",
+      "titles": []
+    }
+  ]
+}
