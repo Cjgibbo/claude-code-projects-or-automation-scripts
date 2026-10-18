@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "imprint": "ALEXANDER",
+    "imprintTag": "Learn",
+    "title": "Forgiveness",
+    "subtitle": "Releasing and Received",
+    "productType": "Student Workbook",
+    "productDesc": "A Four-Lesson Study for Adult Bible Classes"
+  },
+  "insideFrontCover": {
+    "heading": "Getting Started",
+    "paragraphs": [
+      {
+        "label": "Read your Scriptures and answer the questions before class.",
+        "text": "Writing your answers down helps you remember what stood out to you — and when something comes up in discussion, you'll find it easier to speak up because you've already thought it through."
+      },
+      "Please come to class ready to share. Everyone thinks about these things differently, and that's the point — hearing how someone else reads the same verse or wrestles with the same question is how we all grow.",
+      "It can feel uncomfortable at first, especially if you're new. But the people sitting next to you are figuring things out too, and your honesty helps them as much as theirs helps you."
+    ]
+  },
+  "lessons": [
+    {
+      "num": 1,
+      "title": "The God Who Forgives",
+      "scriptures": ["Psalm 103:8–12", "Isaiah 43:25", "Micah 7:18–19", "1 John 1:9", "Ephesians 1:7", "Luke 7:36–50"],
+      "keyIdea": "God's forgiveness is not something you earn — it's something he gives, because of who he is. He moves first, removes the distance, and doesn't keep a record of what he's already forgiven.",
+      "keyTerms": [
+        {
+          "term": "\"As far as the east is from the west\"",
+          "ref": "(Psalm 103:12)",
+          "definition": "An infinite distance. David's way of saying God doesn't just move your sin aside — he makes it unreachable."
+        },
+        {
+          "term": "\"Blots out your transgressions\"",
+          "ref": "(Isaiah 43:25)",
+          "definition": "To erase completely. God compares forgiveness to wiping a record clean — and he says he does it for his own sake, not yours."
+        },
+        {
+          "term": "\"The depths of the sea\"",
+          "ref": "(Micah 7:19)",
+          "definition": "Where God hurls your sins. Not set aside. Not filed. Thrown somewhere they can't be retrieved."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "What's the first thing that comes to mind when you hear the word \"forgiveness\"? Do you tend to think about giving it or receiving it?"
+        },
+        {
+          "num": 2,
+          "text": "Have you ever tried to earn God's forgiveness — done something to \"make up for\" a sin before you felt forgiven? What did that look like?"
+        },
+        {
+          "num": 3,
+          "text": "Read Psalm 103:12. David says God removed your sins \"as far as the east is from the west.\" Does that match how you feel about your past? Why or why not?"
+        },
+        {
+          "num": 4,
+          "text": "Read Isaiah 43:25. God says he forgives \"for my own sake.\" Why do you think that matters? What would be different if he forgave for our sake instead?"
+        },
+        {
+          "num": 5,
+          "text": "Is there a sin you've confessed but still carry guilt over? You don't have to name it — just write yes or no, and a sentence about what that feels like."
+        },
+        {
+          "num": 6,
+          "text": "Read Luke 7:36–50. What stands out to you about the woman who came to Jesus at Simon's house?"
+        }
+      ],
+      "thinkAbout": "What would change in your life this week if you actually believed — all the way through — that God has already forgiven you?",
+      "challenge": "Set aside ten minutes one evening this week. Write down three things you've been carrying — sins you've confessed but still feel guilty about. Read 1 John 1:9 out loud. Then, if you're willing, put the paper in the trash. Not because the paper matters, but because the act of letting go does. At the end of the week, ask yourself: did anything shift?",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to think more about:" },
+        { "text": "Questions I still have:" }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "The Cost of Unforgiveness",
+      "scriptures": ["Matthew 18:21–35", "Matthew 6:14–15", "Hebrews 12:15", "Ephesians 4:31–32", "Mark 11:25"],
+      "keyIdea": "Jesus ties your forgiveness of others directly to your own experience of God's forgiveness — not because you earn it by forgiving, but because a heart that truly grasps what it's been given cannot hoard grace.",
+      "keyTerms": [
+        {
+          "term": "\"Ten thousand talents\"",
+          "ref": "(Matthew 18:24)",
+          "definition": "An impossibly large debt. Roughly 200,000 years' wages. Jesus uses it to represent what God has forgiven you."
+        },
+        {
+          "term": "\"A hundred denarii\"",
+          "ref": "(Matthew 18:28)",
+          "definition": "A few months' wages. A real debt, but nothing compared to ten thousand talents. This is what we hold against each other."
+        },
+        {
+          "term": "\"Bitter root\"",
+          "ref": "(Hebrews 12:15)",
+          "definition": "Unforgiveness that grows underground and surfaces as poison. It doesn't stay contained — it spreads to the people around you."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "Read Matthew 18:21–35. When you first read this parable, which character did you identify with — the king, the first servant, the second servant, or the other servants watching? Why?"
+        },
+        {
+          "num": 2,
+          "text": "The first servant owed ten thousand talents — an unpayable debt. How does that change the way you think about what God has forgiven you?"
+        },
+        {
+          "num": 3,
+          "text": "Is there someone you're withholding forgiveness from right now? You don't have to name them — just write yes or no."
+        },
+        {
+          "num": 4,
+          "text": "What does unforgiveness cost you — not the other person, but you? Think about your peace, your relationships, your prayers."
+        },
+        {
+          "num": 5,
+          "text": "Read Hebrews 12:15. Have you ever seen a \"bitter root\" grow in someone's life — or your own? What did it look like?"
+        },
+        {
+          "num": 6,
+          "text": "On a scale of 1 to 10, how hard is it for you to forgive? What makes it harder — the size of the offense, the lack of an apology, something else?"
+        }
+      ],
+      "thinkAbout": "What debt are you still collecting on — and what would it cost you to cancel it?",
+      "challenge": "Think of one person you've been withholding forgiveness from. Don't call them — not yet. For now, pray for them by name at least once a day. Not a long prayer. Just their name and a request that God would work in both of your hearts. At the end of the week, ask yourself: did the weight shift at all?",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to think more about:" },
+        { "text": "Questions I still have:" }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Forgiving When It's Hard",
+      "scriptures": ["Genesis 45:1–15", "Genesis 50:15–21", "Luke 15:11–32", "Colossians 3:12–14"],
+      "keyIdea": "Forgiveness is not instant, not painless, and not the same as pretending nothing happened. Joseph wept. The father ran. Both felt everything — and forgave anyway.",
+      "keyTerms": [
+        {
+          "term": "\"You intended to harm me, but God intended it for good\"",
+          "ref": "(Genesis 50:20)",
+          "definition": "Joseph's summary of decades of pain. He named the harm and named God's purpose in the same sentence. Forgiveness doesn't require silence about what happened."
+        },
+        {
+          "term": "\"While he was still a long way off\"",
+          "ref": "(Luke 15:20)",
+          "definition": "The father saw the prodigal coming from a distance, which means he was watching. He didn't wait for the apology. He ran."
+        },
+        {
+          "term": "\"Bear with each other\"",
+          "ref": "(Colossians 3:13)",
+          "definition": "Literally, to hold up under. Paul is saying forgiveness is weight-bearing work, not a light switch."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "Which story hit harder for you — Joseph or the prodigal's father? Why?"
+        },
+        {
+          "num": 2,
+          "text": "Joseph's forgiveness took years — from the pit to the palace to the reunion. Does that encourage you or frustrate you? Why?"
+        },
+        {
+          "num": 3,
+          "text": "The prodigal's father ran before hearing the full apology. Is there someone you've been waiting on before you'll forgive? What are you waiting for?"
+        },
+        {
+          "num": 4,
+          "text": "Joseph said \"You intended to harm me, but God intended it for good.\" Can you name the harm someone did to you and still forgive them? Or does forgiveness require you to stop talking about it?"
+        },
+        {
+          "num": 5,
+          "text": "What's one thing people get wrong about forgiveness — something they think it requires that it actually doesn't?"
+        },
+        {
+          "num": 6,
+          "text": "Read Colossians 3:13. \"Forgive as the Lord forgave you.\" On a scale of 1 to 10, how close are you to doing that with the hardest person in your life? What would move it one point higher?"
+        }
+      ],
+      "thinkAbout": "What's the one thing that makes forgiveness hardest for you — and what would it take to start moving toward it?",
+      "challenge": "Think about the person you've been praying for from last week's challenge. This week, write them a letter you don't send. Say everything — the anger, the hurt, the cost. Then write one sentence at the bottom: \"I'm working toward forgiving you.\" You don't have to mean it perfectly yet. You just have to mean it enough to write it down.",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to think more about:" },
+        { "text": "Questions I still have:" }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Reconciliation",
+      "scriptures": ["2 Corinthians 5:18–20", "Matthew 5:23–24", "Romans 12:17–18", "Philemon 1:8–21", "Matthew 18:15–17"],
+      "keyIdea": "Forgiveness is something you do before God. Reconciliation is something you do with another person. You can forgive without reconciling — but you should always be willing to move toward it if it's safe and possible.",
+      "keyTerms": [
+        {
+          "term": "\"Ministry of reconciliation\"",
+          "ref": "(2 Corinthians 5:18)",
+          "definition": "God reconciled us to himself through Christ and gave us the job of reconciling with others. We are ambassadors — representatives of a God who moved first."
+        },
+        {
+          "term": "\"If it is possible, as far as it depends on you\"",
+          "ref": "(Romans 12:18)",
+          "definition": "Paul's two qualifiers. Reconciliation isn't always possible, and it doesn't always depend on you. But your end of it does."
+        },
+        {
+          "term": "\"No longer as a slave, but as a dear brother\"",
+          "ref": "(Philemon 16)",
+          "definition": "Paul's appeal to Philemon to receive Onesimus back on new terms. Reconciliation changes the relationship, not just the status."
+        }
+      ],
+      "questions": [
+        {
+          "num": 1,
+          "text": "Before this study, did you think forgiveness and reconciliation were the same thing? How do you see the difference now?"
+        },
+        {
+          "num": 2,
+          "text": "Read Romans 12:18. Paul says \"if it is possible\" and \"as far as it depends on you.\" Is there a relationship in your life where reconciliation isn't possible right now? What makes it impossible?"
+        },
+        {
+          "num": 3,
+          "text": "Read Matthew 5:23–24. Jesus says to go even when the other person has something against you — even if you think they're wrong. Is there someone who might have something against you right now?"
+        },
+        {
+          "num": 4,
+          "text": "In Philemon, Paul stands in the middle between two people and advocates for reconciliation. Have you ever had someone do that for you — or been that person for someone else?"
+        },
+        {
+          "num": 5,
+          "text": "Is there a relationship in your life right now where you've forgiven but haven't reconciled — or where you need to start the process? Write yes or no, and a sentence about where things stand."
+        },
+        {
+          "num": 6,
+          "text": "What's one concrete step you could take this week — a conversation, a letter, a prayer — toward reconciliation with someone?"
+        }
+      ],
+      "thinkAbout": "Who in your life needs to hear — from you — that the door is still open?",
+      "challenge": "This is the final challenge of the series. Look back at the three weeks of challenges — the paper in the trash, the prayer by name, the unsent letter. Now: is there one step you can take toward actual reconciliation this week? It might be making the call. It might be writing the letter and actually sending it. It might be asking someone to mediate. Or it might be praying for the peace to accept that you've done what you can. Whatever the step is, write it down. Tell someone. And take it.",
+      "notesPrompts": [
+        { "text": "What stood out to me from this lesson:" },
+        { "text": "What I want to think more about:" },
+        { "text": "Questions I still have:" }
+      ]
+    }
+  ]
+}

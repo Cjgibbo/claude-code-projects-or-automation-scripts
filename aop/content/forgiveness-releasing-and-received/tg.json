@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "imprint": "ALEXANDER",
+    "imprintTag": "Learn",
+    "title": "Forgiveness",
+    "subtitle": "Releasing and Received",
+    "productType": "Teacher’s Guide",
+    "productDesc": "A Four-Lesson Study for Adult Bible Classes",
+    "target": "Adult Bible class, 45–60 minutes per session"
+  },
+  "insideFrontCover": {
+    "heading": "How to Use This Guide",
+    "paragraphs": [
+      "This guide is your preparation tool. Each lesson is laid out from start to finish so you know what to address, where the discussion is headed, and how to bring it home.",
+      "Here’s what you’ll find in each lesson:",
+      {
+        "label": "An introduction framework",
+        "text": "— context and key ideas to help you open the class in your own words. This isn’t a script to read aloud. It’s the background you need so you can speak from understanding."
+      },
+      {
+        "label": "Discussion questions",
+        "text": "tied directly to what your students worked through during the week. Their homework feeds your class conversation."
+      },
+      {
+        "label": "Scripture readings",
+        "text": "to walk through together as a group."
+      },
+      {
+        "label": "A closing framework",
+        "text": "with points to help you wrap up the lesson personally. Same idea as the intro — use it to understand where the lesson lands, then say it your way."
+      },
+      "The more familiar you are with the material, the more natural it will feel. But even a single read-through gives you a clear picture of where each lesson is going and what you’re trying to help your class work through."
+    ]
+  },
+  "lessons": [
+    {
+      "num": 1,
+      "title": "The God Who Forgives",
+      "summary": "What divine forgiveness looks like — its depth, its initiative, its completeness",
+      "aim": "By the end of this lesson, the class should understand what God's forgiveness actually looks like in Scripture — that it is initiated by him, not earned by us — and feel the weight of being forgiven as the foundation for everything else this series will cover.",
+      "scriptures": ["Psalm 103:8–12", "Isaiah 43:25", "Micah 7:18–19", "1 John 1:9", "Ephesians 1:7", "Luke 7:36–50"],
+      "time": "45–50 minutes",
+      "beforeClass": "Read through the lesson text and discussion questions. Mark any questions you want to emphasize based on your group. Have Bibles available — this lesson references several passages, and the class should look them up together rather than just hearing them read. This is a topic that touches people personally. Some in your class are carrying guilt they've never named out loud. Go easy. Let the Scripture do the heavy lifting.",
+      "sections": [
+        { "type": "heading", "text": "Opening (5 minutes)" },
+        { "type": "body", "text": "Ask the class: “When you hear the word ‘forgiveness,’ what's the first thing that comes to mind — giving it or receiving it?” Let a few people answer. Most will say giving it. That tells you something. We tend to think of forgiveness as something we do for others. This series starts from the other direction — what God has done for us. Because you can't give away what you haven't received." },
+        { "type": "notes", "count": 4 },
+
+        { "type": "heading", "text": "What Forgiveness Is Not (10 minutes)" },
+        { "type": "body", "text": "Before we dig into what God's forgiveness looks like, it helps to clear away some things it isn't. A lot of people carry a version of forgiveness in their heads that Scripture doesn't actually teach." },
+        { "type": "bodyBold", "label": "Forgiveness is not pretending nothing happened.", "text": "When God forgives, he doesn't develop amnesia. He doesn't act as though the offense never occurred. He knows exactly what happened — and he chooses to release you from it anyway. That's not denial. That's grace. If you've ever felt like forgiveness requires you to act like something didn't hurt, that's not what God models." },
+        { "type": "bodyBold", "label": "Forgiveness is not something you earn.", "text": "A lot of people treat forgiveness like a transaction — if I'm sorry enough, if I do enough penance, if I prove I've changed, then God will forgive me. But read Ephesians 1:7: we have redemption through his blood, the forgiveness of sins, “in accordance with the riches of God's grace.” It's according to his riches, not your repayment plan. You can't earn your way back in. You're already invited." },
+        { "type": "bodyBold", "label": "Forgiveness is not a one-time event.", "text": "Some people think of forgiveness as something that happened at baptism and stopped. But 1 John 1:9 is written to people who are already Christians: “If we confess our sins, he is faithful and just to forgive us.” Present tense. Ongoing. You don't outgrow your need for forgiveness. You grow into understanding how much you need it." },
+
+        { "type": "heading", "text": "The God Who Initiates (15 minutes)" },
+        { "type": "body", "text": "Here's what makes God's forgiveness different from ours: he moves first." },
+        { "type": "bodyBold", "label": "He removes the distance.", "text": "Read Psalm 103:8–12 together. David says God has removed our transgressions “as far as the east is from the west.” That's not a number — it's an impossibility. East and west never meet. David is saying the gap between you and your sin has been made infinite. And notice who did the removing. Not you. God did." },
+        { "type": "bodyBold", "label": "He chooses to forget.", "text": "Read Isaiah 43:25. God says, “I, even I, am he who blots out your transgressions, for my own sake, and remembers your sins no more.” Catch that phrase — “for my own sake.” God doesn't forgive you because you earned it. He forgives you because of who he is. His forgiveness says more about his character than your behavior." },
+        { "type": "bodyBold", "label": "He buries it.", "text": "Read Micah 7:18–19. Micah says God “hurls all our iniquities into the depths of the sea.” That verb is violent — he throws them. He doesn't set them down gently where they might be picked up again. He throws them somewhere they can't be retrieved. Corrie ten Boom once said God puts up a sign: “No fishing allowed.” That's not Scripture, but it captures what Micah is saying. God doesn't keep a file on you." },
+        { "type": "bodyBold", "label": "He demonstrates it.", "text": "Read Luke 7:36–50. A woman — the text says she had “lived a sinful life” — crashes a dinner party at a Pharisee's house. She's weeping on Jesus' feet, wiping them with her hair, pouring perfume on them. The Pharisee is horrified. Jesus turns to him and tells a story about two people who owed money — one owed a lot, one a little. Both debts were cancelled. “Which one will love the creditor more?” The one who was forgiven more. Then Jesus looks at the woman and says, “Her many sins have been forgiven — as her great love has shown.” The room full of religious people couldn't see past her reputation. Jesus saw past it to the forgiveness that was already hers." },
+
+        { "type": "heading", "text": "Why This Matters First (5 minutes)" },
+        { "type": "body", "text": "This series is about forgiveness — and we're going to talk about forgiving others, about the cost of holding grudges, about reconciliation. But we start here because everything else depends on this. You cannot forgive others out of an empty tank. If you don't know — really know, in your bones — that you've been forgiven by God, you will white-knuckle your way through forgiving other people and it will break you. The woman at Simon's house loved much because she had been forgiven much. That's the order. Received first. Given second." },
+
+        { "type": "heading", "text": "Discussion Questions (10–15 minutes)" },
+        { "type": "questionIntro", "text": "Each question below corresponds to a question in the Student Workbook. Students prepared written answers before class — draw from them. Start each question by saying: “Look at what you wrote for number [X] — who wants to share?” This one line turns a lecture into a conversation." },
+        { "type": "question", "num": 1, "question": "[Workbook #1] “What's the first thing that comes to mind when you hear the word 'forgiveness'?” Ask students to share what they wrote.", "coaching": "Let people share freely. No wrong answers. This warms the group up and often reveals whether people default to thinking about receiving forgiveness or giving it. Most will say giving — that sets up the lesson's emphasis on receiving first." },
+        { "type": "question", "num": 2, "question": "[Workbook #2] “Have you ever tried to earn God's forgiveness — done something to 'make up for' a sin before you felt forgiven?” Ask students to share what they wrote.", "coaching": "Common answers: extra prayer, extra giving, avoiding the same sin for a stretch, doing good deeds to balance the ledger. The point is that Ephesians 1:7 says forgiveness is according to the riches of his grace — not your effort. You can't outwork grace." },
+        { "type": "question", "num": 3, "question": "[Workbook #3] “Read Psalm 103:12. David says God removed your sins 'as far as the east is from the west.' Does that match how you feel about your past?” Let volunteers share. Don't press anyone who stays quiet on this one.", "coaching": "Many people know the verse but don't feel it. That's normal and worth naming. The psalm is stating a fact about God's action, not describing a feeling. The forgiveness is real whether it feels real or not." },
+        { "type": "question", "num": 4, "question": "[Workbook #4] “Read Isaiah 43:25. God says he forgives 'for my own sake.' Why does that matter?” Ask students to read what they wrote. Build on their answers.", "coaching": "If God forgives for our sake, then his willingness depends on us — our sincerity, our track record, our improvement. But he forgives for his own sake — because of who he is. That means his forgiveness doesn't fluctuate with your performance. It's anchored in his character, not yours." },
+        { "type": "question", "num": 5, "question": "[Workbook #5] “Is there a sin you've confessed but still carry guilt over?” Students wrote yes, no, or described the feeling. Let volunteers share — keep this low-pressure.", "coaching": "This is the tender one. Some people will say yes. Don't rush past it. The point of 1 John 1:9 is that God is faithful and just to forgive. If you've confessed it, God has handled it. Continuing to carry it is not humility — it's a refusal to trust that he meant what he said." },
+        { "type": "question", "num": 6, "question": "[Workbook #6] “What stands out to you about the woman in Luke 7?” Ask a few to share.", "coaching": "She didn't wait for an invitation. She didn't clean herself up first. She came as she was — messy, public, emotional — and Jesus received her. The Pharisee saw a sinner. Jesus saw a woman who understood what she'd been given. Her love was the evidence of forgiveness, not the cause of it." },
+
+        { "type": "heading", "text": "Closing Thought (2 minutes)" },
+        { "type": "body", "text": "God's forgiveness is not something you apply for. It's something you receive. And receiving it — really letting it in — changes everything that comes after. The rest of this series is going to ask hard things of you. Forgiving people who hurt you. Letting go of grudges you've been nursing for years. But none of that is possible if you're still trying to earn what God already gave." },
+        { "type": "body", "text": "To close, ask the class:" },
+        { "type": "closingPrompt", "text": "“What would change in your life this week if you actually believed — all the way through — that God has already forgiven you?”", "instruction": "Let the room sit with that for a moment. Then speak from your own heart — use whichever of these resonates with you personally:" },
+        { "type": "closingBullet", "label": "It might be guilt.", "text": "Some of us are carrying things God has already thrown into the sea. We confessed them. He forgave them. And we keep diving down to fish them back out. This week, try leaving them there. When the guilt surfaces, say out loud: “That one's been handled.” Because it has." },
+        { "type": "closingBullet", "label": "It might be distance.", "text": "Some of us feel like we've wandered too far to come back — like there's a limit to how many times God will take us back. Isaiah says he forgives for his own sake. Not because you deserve another chance. Because he is who he is. The door has never closed." },
+        { "type": "closingBullet", "label": "It might be performance.", "text": "Some of us are still trying to earn what's already been given. More service, more attendance, more effort — as if the blood of Christ needs a co-signer. Ephesians says it's according to the riches of his grace. You can stop performing. You're already in." },
+        { "type": "closingNotes", "count": 5 },
+
+        { "type": "heading", "text": "Take-Home Challenge" },
+        { "type": "body", "text": "This week, set aside ten minutes one evening. Write down three things you've been carrying — sins you've confessed but still feel guilty about, things you keep bringing back to God because you're not sure they're really forgiven. Read 1 John 1:9 out loud. Then, if you're willing, put the paper in the trash. Not because the paper matters, but because the act of letting go does. At the end of the week, ask yourself: did anything shift?" }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "The Cost of Unforgiveness",
+      "summary": "The unforgiving servant — what happens when we refuse to pass along what we've received",
+      "aim": "By the end of this lesson, the class should see what Jesus says happens when people who've been forgiven refuse to forgive — and should honestly evaluate whether they're holding something against someone right now.",
+      "scriptures": ["Matthew 18:21–35", "Matthew 6:14–15", "Hebrews 12:15", "Ephesians 4:31–32", "Mark 11:25"],
+      "time": "45–50 minutes",
+      "beforeClass": "This lesson centers on the parable of the unforgiving servant — one of the most pointed stories Jesus ever told. It's going to hit close to home for some people. Don't soften it. Jesus didn't. But be ready for the room to get quiet, especially during the discussion. That silence is not failure — it's people thinking.",
+      "sections": [
+        { "type": "heading", "text": "Opening (5 minutes)" },
+        { "type": "body", "text": "Ask the class: “Has anyone here ever had a debt forgiven — a loan cancelled, a bill written off, someone saying 'don't worry about it' when you owed them? What did that feel like?” Let a few people share. Then: “Now — have you ever done something generous for someone who then turned around and was stingy with someone else?” That feeling — that's the parable we're about to read." },
+
+        { "type": "heading", "text": "The Parable (15 minutes)" },
+        { "type": "body", "text": "Read Matthew 18:21–35 together. Take your time. This story has three scenes, and each one matters." },
+        { "type": "bodyBold", "label": "Scene 1: Peter asks a question.", "text": "“How many times should I forgive my brother? Seven times?” Peter thinks he's being generous. Rabbinical teaching at the time suggested three times was sufficient. Peter more than doubles it. He expects Jesus to be impressed. Jesus says seventy-seven times — or seventy times seven, depending on the translation. Either way, it's the same answer: stop counting." },
+        { "type": "bodyBold", "label": "Scene 2: The king settles accounts.", "text": "A servant owes ten thousand talents. To put that in perspective: a single talent was roughly twenty years' wages for a laborer. Ten thousand talents is an absurd, unpayable, astronomical sum — Jesus is making a point, not doing accounting. This debt can never be repaid. The servant begs for time, and the king does something unthinkable: he cancels the entire debt. Not a payment plan. Not a reduced settlement. Full cancellation. Gone." },
+        { "type": "bodyBold", "label": "Scene 3: The forgiven servant refuses to forgive.", "text": "This same man walks out and finds a fellow servant who owes him a hundred denarii — a real debt, but manageable. A few months' wages. And he grabs him by the throat and demands payment. When the man begs for time — the exact same plea the first servant made to the king — the forgiven servant throws him in prison." },
+        { "type": "body", "text": "The other servants see this and report it. The king is furious. “Shouldn't you have had mercy on your fellow servant just as I had on you?” The servant is handed over to be tortured until his debt is paid — which, given the size of the debt, means forever." },
+        { "type": "body", "text": "Then Jesus adds the line that should stop every person in the room: “This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”" },
+
+        { "type": "heading", "text": "What This Tells Us (10 minutes)" },
+        { "type": "bodyBold", "label": "The math is the point.", "text": "Ten thousand talents versus a hundred denarii. The ratio is roughly 600,000 to 1. Jesus is not being subtle. Whatever someone has done to you — however real and painful it is — it is a hundred denarii compared to what God has forgiven you. That doesn't minimize your pain. It reframes who you are in the story. You are not primarily the person who was wronged. You are the person who was forgiven an unpayable debt." },
+        { "type": "bodyBold", "label": "Unforgiveness has a cost.", "text": "Read Hebrews 12:15: “See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many.” A bitter root doesn't stay contained. It spreads. It defiles — that word means it corrupts, it poisons. Unforgiveness doesn't just affect you. It affects the people around you — your family, your church, your friendships. It becomes the lens you see everything through." },
+        { "type": "bodyBold", "label": "Forgiveness is expected, not optional.", "text": "Read Matthew 6:14–15 — this is Jesus in the Sermon on the Mount, right after the Lord's Prayer: “If you forgive other people when they sin against you, your heavenly Father will also forgive you. But if you do not forgive others their sins, your Father will not forgive your sins.” That's not a suggestion. It's a condition. Read Mark 11:25 — “And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.” Jesus ties your forgiveness of others directly to God's forgiveness of you. Not because you earn God's forgiveness by forgiving — but because a heart that truly understands what it's been given cannot hoard grace." },
+
+        { "type": "heading", "text": "Discussion Questions (10–15 minutes)" },
+        { "type": "questionIntro", "text": "Each question below corresponds to a question in the Student Workbook. Students prepared written answers before class — draw from them." },
+        { "type": "question", "num": 1, "question": "[Workbook #1] “When you first read this parable, which character did you identify with — the king, the first servant, the second servant, or the other servants watching?” Ask students to share.", "coaching": "Most will say the second servant (the one wronged by the unforgiving servant) or the king. Very few will identify as the unforgiving servant. That's the point — none of us think we're that person. But Jesus told the story because we might be." },
+        { "type": "question", "num": 2, "question": "[Workbook #2] “The first servant owed an unpayable debt. How does that change how you think about what God has forgiven you?” Ask students to read what they wrote.", "coaching": "The debt is absurd on purpose. Jesus is saying: you cannot calculate what you've been forgiven. When you're deciding whether someone deserves your forgiveness, remember that you didn't deserve God's. The ledger is not in your favor." },
+        { "type": "question", "num": 3, "question": "[Workbook #3] “Is there someone you're withholding forgiveness from right now? You don't have to name them — just write yes or no.” Let volunteers share. Don't press anyone who stays quiet.", "coaching": "Some will say yes. Some will write around it. That's fine. The workbook question plants a seed — the class doesn't have to harvest it publicly. But naming it, even on paper, is the first step." },
+        { "type": "question", "num": 4, "question": "[Workbook #4] “What does unforgiveness cost you — not the other person, but you?” Ask a few to share.", "coaching": "Anxiety, sleep, bitterness, distance from God, strained relationships with people who had nothing to do with it. Unforgiveness is expensive. The person you're refusing to forgive may not even know you're angry. You're carrying the weight alone." },
+        { "type": "question", "num": 5, "question": "[Workbook #5] “Read Hebrews 12:15. Have you seen a 'bitter root' grow in someone's life — or your own? What did it look like?” Ask volunteers to share.", "coaching": "People will have stories — a family member consumed by a grudge, a church split by old wounds, a friendship that died because nobody would bend. The bitter root is always visible from the outside. From the inside, it feels like justified anger." },
+        { "type": "question", "num": 6, "question": "[Workbook #6] “On a scale of 1 to 10, how hard is it for you to forgive? What makes it harder?” Ask students to share their number and what drives it.", "coaching": "Common answers: the person isn't sorry, the person keeps doing it, the hurt was too deep, forgiving feels like saying it was okay. Acknowledge all of those. Then point out: Jesus didn't say “forgive if they apologize.” He said forgive from your heart. That's harder — and it's what the next lesson is about." },
+
+        { "type": "heading", "text": "Closing Thought (2 minutes)" },
+        { "type": "body", "text": "The unforgiving servant is not a stranger. He's anyone who has received grace and withheld it. Jesus tells this story because the temptation is universal — we all keep a ledger, we all track debts, we all have someone whose hundred denarii feels like ten thousand talents." },
+        { "type": "body", "text": "To close, ask the class:" },
+        { "type": "closingPrompt", "text": "“What debt are you still collecting on — and what would it cost you to cancel it?”", "instruction": "Let the room sit with that. Then speak from your own heart — use whichever of these resonates with you personally:" },
+        { "type": "closingBullet", "label": "It might be the size.", "text": "We tell ourselves that some things are too big to forgive. And the pain may be enormous — no one is minimizing that. But the parable says you've been forgiven something bigger. That's not a guilt trip. It's a reframe. You're not forgiving from a position of superiority. You're forgiving from a position of having been forgiven yourself." },
+        { "type": "closingBullet", "label": "It might be the wait.", "text": "Some of us are withholding forgiveness until the other person apologizes, changes, or acknowledges what they did. But Mark 11:25 doesn't say “when they repent.” It says “when you stand praying.” Forgiveness is something you do before God, not something you negotiate with the other person." },
+        { "type": "closingBullet", "label": "It might be the principle.", "text": "We want to be right more than we want to be free. And we may be right — they may have been wrong, fully and completely. But the servant who owed a hundred denarii was wrong too. Being right about someone else's debt doesn't cancel yours." },
+        { "type": "closingNotes", "count": 5 },
+
+        { "type": "heading", "text": "Take-Home Challenge" },
+        { "type": "body", "text": "This week, think of one person you've been withholding forgiveness from. Don't call them — not yet. That may come later. For now, pray for them by name at least once a day. Not a long prayer. Just their name and a request that God would work in both of your hearts. At the end of the week, ask yourself: did the weight shift at all?" }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Forgiving When It's Hard",
+      "summary": "Joseph and his brothers, the prodigal son — what real forgiveness looks like and what it isn't",
+      "aim": "By the end of this lesson, the class should see what forgiveness looks like when it's genuinely difficult — through the examples of Joseph and the prodigal's father — and should be able to distinguish biblical forgiveness from the common distortions of it.",
+      "scriptures": ["Genesis 45:1–15", "Genesis 50:15–21", "Luke 15:11–32", "Colossians 3:12–14"],
+      "time": "45–50 minutes",
+      "beforeClass": "This lesson has two major narrative passages — Joseph and the prodigal son. Both are long enough that reading them in class takes time. Consider having the class read the Genesis passages aloud together (splitting readers if your group is comfortable with that) and summarizing the prodigal son since most people know it well. The goal is spending time in the stories, not racing through them.",
+      "sections": [
+        { "type": "heading", "text": "Opening (5 minutes)" },
+        { "type": "body", "text": "Ask the class: “When someone says 'I forgive you,' what do you think that actually requires of them? What does it not require?” Let a few people answer. You'll get a range — some will say it means forgetting, some will say it means letting go of anger, some will say it means restoring the relationship. All of those are worth discussing, and this lesson is going to sharpen what Scripture actually asks." },
+
+        { "type": "heading", "text": "Joseph: Forgiveness That Waited (15 minutes)" },
+        { "type": "body", "text": "Joseph's story is one of the longest narratives in Genesis, and the forgiveness at the end of it only works because of everything that came before." },
+        { "type": "body", "text": "Here's the short version: Joseph's brothers hated him. They threw him in a pit, sold him to slave traders, and told their father he was dead. Joseph spent years in slavery, then prison, then rose to the second most powerful position in Egypt. When famine hit, his brothers came to Egypt for food — and they didn't recognize him." },
+        { "type": "body", "text": "Joseph could have destroyed them. He had every right and every means. Instead, he tested them — not for revenge, but to see whether they had changed. Had they become men who would protect their father and their youngest brother, or were they still the men who threw a teenager into a pit?" },
+        { "type": "body", "text": "Read Genesis 45:1–15 together. When Joseph finally reveals himself, he weeps so loudly that the Egyptians hear it. He doesn't lecture. He doesn't list their crimes. He says, “God sent me ahead of you to preserve life.” He reframes the entire narrative — not to excuse what they did, but to place it inside God's larger purpose." },
+        { "type": "body", "text": "Now read Genesis 50:15–21. This is years later. Their father Jacob has died, and the brothers panic — they think Joseph's mercy was only for their father's sake, and now he'll take revenge. Joseph weeps again. “Am I in the place of God? You intended to harm me, but God intended it for good.”" },
+        { "type": "bodyBold", "label": "What Joseph's forgiveness was:", "text": "Real. Costly. Patient. He wept — this was not cold acceptance. He provided for their families. He chose not to punish them even when they expected it." },
+        { "type": "bodyBold", "label": "What Joseph's forgiveness was not:", "text": "Instant. He didn't forgive them in the pit. He didn't forgive them in prison. The forgiveness came after years — years of pain, years of wrestling, years of watching God work. If your forgiveness is taking time, that doesn't mean you're failing. Joseph's took decades." },
+        { "type": "bodyBold", "label": "What Joseph's forgiveness did not require:", "text": "Pretending the harm never happened. He named it: “You intended to harm me.” Forgiveness doesn't erase history. It refuses to be governed by it." },
+
+        { "type": "heading", "text": "The Father Who Ran (10 minutes)" },
+        { "type": "body", "text": "Read Luke 15:11–32 — or, if time is short, summarize the first half and read verses 20–32 together." },
+        { "type": "body", "text": "A son demands his inheritance early — which is essentially saying, “I wish you were dead.” He takes the money, squanders it, and ends up feeding pigs. He rehearses a speech: “Make me like one of your hired servants.” He's not expecting restoration. He's hoping for employment." },
+        { "type": "body", "text": "But the father sees him coming from a long way off. That means he was watching. He runs — which in that culture, an older man running was undignified, almost scandalous. He doesn't wait to hear the speech. He throws his arms around the son, puts the family ring on his finger, kills the fattened calf." },
+        { "type": "body", "text": "The older brother is furious. “I've been faithful. I've worked. This one wasted everything, and you're throwing a party?” The father's answer: “This brother of yours was dead and is alive again.”" },
+        { "type": "bodyBold", "label": "What the father models:", "text": "Forgiveness that doesn't wait for the full apology. The son had a speech prepared. The father interrupted it. He didn't need to hear it. The son's return was enough." },
+        { "type": "bodyBold", "label": "What this costs:", "text": "The father absorbs the loss. The inheritance is gone. The damage is done. The father doesn't get his money back. He gets his son back. And that's enough for him. Forgiveness always costs the one doing the forgiving. The question is whether what you get back — relationship, peace, freedom — is worth more than what you paid." },
+
+        { "type": "heading", "text": "What Forgiveness Is and Isn't (5 minutes)" },
+        { "type": "body", "text": "This is worth saying clearly, because a lot of people resist forgiving because they've been taught a version of it that Scripture doesn't actually require." },
+        { "type": "bodyBold", "label": "Forgiveness is:", "text": "Releasing the debt. Choosing not to punish. Refusing to let the offense define your relationship with God or the other person. Asking God to work in both hearts." },
+        { "type": "bodyBold", "label": "Forgiveness is not:", "text": "Pretending it didn't happen. Trusting the person again immediately. Returning to an unsafe situation. Saying “it's okay” when it wasn't okay. Forgiveness does not require reconciliation — that's next week's topic." },
+        { "type": "body", "text": "Read Colossians 3:12–14. Paul says to “bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.” That last line is the standard. How did the Lord forgive you? Fully, at great cost, while you were still in the wrong. That's the model. It doesn't mean it's easy. It means it's expected." },
+
+        { "type": "heading", "text": "Discussion Questions (10–15 minutes)" },
+        { "type": "question", "num": 1, "question": "[Workbook #1] “Which story hit harder for you — Joseph or the prodigal's father? Why?” Ask students to share.", "coaching": "Joseph usually resonates with people who've been deeply wronged by someone close — family, church members. The prodigal's father resonates with parents, or with people who've been the prodigal. Both are valid entry points into the same truth." },
+        { "type": "question", "num": 2, "question": "[Workbook #2] “Joseph's forgiveness took years. Does that encourage you or frustrate you?” Ask students to read what they wrote.", "coaching": "Some will be relieved — they've been beating themselves up for not forgiving faster. Others will be frustrated — they want to be done with it. Name both responses. Forgiveness is a direction, not a destination. You're heading toward it even when you're not there yet." },
+        { "type": "question", "num": 3, "question": "[Workbook #3] “The prodigal's father ran. He didn't wait for the full apology. Is there someone you've been waiting on before you'll forgive? What are you waiting for?” Let volunteers share. Don't press anyone.", "coaching": "An apology. An acknowledgment. A change in behavior. All understandable — but the father didn't require any of them. That doesn't mean those things don't matter. It means forgiveness can happen before they arrive." },
+        { "type": "question", "num": 4, "question": "[Workbook #4] “Joseph said 'You intended to harm me, but God intended it for good.' Can you name the harm and still forgive? Or does forgiveness require you to stop talking about it?” Ask a few to share.", "coaching": "Joseph named it. Clearly. Directly. Forgiveness doesn't require silence about the offense. It requires releasing the demand for repayment. You can say “that was wrong” and “I forgive you” in the same breath." },
+        { "type": "question", "num": 5, "question": "[Workbook #5] “What's one thing people get wrong about forgiveness — something they think it requires that it actually doesn't?” Ask students to read their answers.", "coaching": "Forgetting. Trusting again immediately. Going back to an abusive situation. Saying it was okay. These are common distortions. Clear them away. Biblical forgiveness is about releasing the debt, not about pretending the debt never existed." },
+        { "type": "question", "num": 6, "question": "[Workbook #6] “Read Colossians 3:13. 'Forgive as the Lord forgave you.' On a scale of 1 to 10, how close are you to doing that with the hardest person in your life?” Ask students to share their number.", "coaching": "Most will be low. That's honest. Don't shame anyone for a low number. Ask: what would move it one point higher? That's the next step — not perfection, just movement." },
+
+        { "type": "heading", "text": "Closing Thought (2 minutes)" },
+        { "type": "body", "text": "Forgiveness is not a feeling. It's a decision — and sometimes you have to make it before the feeling catches up. Joseph wept. The father ran. Neither of them felt nothing. They felt everything. And they forgave anyway." },
+        { "type": "body", "text": "To close, ask the class:" },
+        { "type": "closingPrompt", "text": "“What's the one thing that makes forgiveness hardest for you — and what would it take to start moving toward it?”", "instruction": "Let the room sit with that. Then speak from your own heart — use whichever of these resonates with you personally:" },
+        { "type": "closingBullet", "label": "It might be the time.", "text": "Joseph took years. If you're not ready to forgive today, that doesn't mean you've failed. But it does mean you need to be heading in that direction. Bitterness is not a holding pattern — it's a descent. Even a small step toward forgiveness is a step away from the pit." },
+        { "type": "closingBullet", "label": "It might be the cost.", "text": "The prodigal's father absorbed the loss. Forgiveness always costs something — and the bill goes to the one doing the forgiving. You're paying for someone else's offense. That's not fair. It's also exactly what Christ did for you." },
+        { "type": "closingBullet", "label": "It might be the myth.", "text": "You've been told that forgiving means forgetting, or trusting again, or saying it was okay. It doesn't mean any of those things. It means releasing the debt. It means refusing to let what they did run your life. That's not weakness. It's the hardest thing you'll ever do." },
+        { "type": "closingNotes", "count": 5 },
+
+        { "type": "heading", "text": "Take-Home Challenge" },
+        { "type": "body", "text": "Think about the person you identified in last week's challenge — the one you've been praying for. This week, write them a letter you don't send. Say everything. The anger, the hurt, the cost. Then write one sentence at the bottom: “I'm working toward forgiving you.” You don't have to mean it perfectly yet. You just have to mean it enough to write it down." }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Reconciliation",
+      "summary": "Moving from forgiveness toward restored relationship — and knowing what Scripture actually promises",
+      "aim": "By the end of this lesson, the class should understand the difference between forgiveness and reconciliation, see that God has made us agents of reconciliation, and honestly assess where they stand with the people in their lives.",
+      "scriptures": ["2 Corinthians 5:18–20", "Matthew 5:23–24", "Romans 12:17–18", "Philemon 1:8–21", "Matthew 18:15–17"],
+      "time": "45–50 minutes",
+      "beforeClass": "This is the final lesson in the series, and it's going to ask people to look at their actual relationships. Some will be ready to take steps toward reconciliation. Others aren't there yet — and that's okay. The goal is not to pressure anyone into making a phone call this week. The goal is to help them see what Scripture says reconciliation requires and what it doesn't, so they can move at God's pace instead of someone else's timetable.",
+      "sections": [
+        { "type": "heading", "text": "Opening (5 minutes)" },
+        { "type": "body", "text": "Ask the class: “Is forgiveness the same thing as reconciliation? Can you forgive someone without the relationship going back to what it was?” Let a few people answer. This is the question the whole lesson turns on. Most people use the two words interchangeably. Scripture doesn't." },
+
+        { "type": "heading", "text": "Forgiveness and Reconciliation Are Not the Same (10 minutes)" },
+        { "type": "body", "text": "Over the last three weeks, we've covered God's forgiveness, the cost of unforgiveness, and what it looks like to forgive when it's hard. This week we finish with the question everyone has been thinking: “Okay, but what do I actually do with the relationship?”" },
+        { "type": "bodyBold", "label": "Forgiveness is something you do before God. Reconciliation is something you do with another person.", "text": "Forgiveness can be one-sided — you release the debt whether the other person knows it or not. Reconciliation requires two people, both willing to move toward each other." },
+        { "type": "body", "text": "You can forgive someone who never apologizes. You cannot reconcile with someone who refuses to engage. That's not a failure on your part. That's a reality Scripture acknowledges." },
+        { "type": "body", "text": "Read Romans 12:17–18: “Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. If it is possible, as far as it depends on you, live at peace with everyone.” Two qualifiers: “if it is possible” and “as far as it depends on you.” Paul knows it isn't always possible. He knows it doesn't always depend on you. But your end — your responsibility — is to keep the door open." },
+
+        { "type": "heading", "text": "God's Reconciliation as the Model (10 minutes)" },
+        { "type": "body", "text": "Read 2 Corinthians 5:18–20. Paul says God reconciled us to himself through Christ and gave us the “ministry of reconciliation.” We are ambassadors — God is making his appeal through us." },
+        { "type": "body", "text": "Notice the shape of God's reconciliation:" },
+        { "type": "bodyBold", "label": "God moved first.", "text": "He didn't wait for us to clean up. Romans 5:8 — while we were still sinners, Christ died for us. Reconciliation started with God, not with the offender." },
+        { "type": "bodyBold", "label": "God absorbed the cost.", "text": "The debt was real. The offense was real. And God paid it himself rather than demanding payment from us. That's the cross." },
+        { "type": "bodyBold", "label": "God extended an invitation, not a demand.", "text": "Paul says we are ambassadors who “implore” people to be reconciled to God. God doesn't force reconciliation. He offers it. The offer stands whether people take it or not." },
+        { "type": "body", "text": "That's the model for us. Move first when you can. Absorb what you can absorb. Extend the invitation. But know that the other person can refuse — and if they do, that's their choice, not your failure." },
+
+        { "type": "heading", "text": "What Reconciliation Looks Like in Practice (10 minutes)" },
+        { "type": "body", "text": "Read Matthew 5:23–24. Jesus says if you're about to offer your gift at the altar and remember that your brother has something against you, leave your gift, go and be reconciled, then come back. Notice: Jesus doesn't say “if you have something against your brother.” He says “if your brother has something against you.” You go even when you're the one who was wronged — even when you're the one who thinks the other person should come to you." },
+        { "type": "body", "text": "Read Matthew 18:15–17. Jesus lays out a process: go privately, then take a witness, then bring it to the church. This isn't a formula for kicking people out. It's a framework for escalating care. Each step gives the other person a chance to respond. Reconciliation is patient." },
+        { "type": "body", "text": "Now look at Philemon. Paul writes to a slave owner on behalf of Onesimus, a runaway slave who has become a Christian. Paul asks Philemon to take Onesimus back — “no longer as a slave, but better than a slave, as a dear brother.” Paul doesn't command. He appeals. He puts his own reputation on the line: “If he has done you any wrong or owes you anything, charge it to me.” That's advocacy. That's mediation. That's what reconciliation sometimes requires — a third person who cares about both sides enough to stand in the middle." },
+        { "type": "bodyBold", "label": "When reconciliation is possible:", "text": "Both people are willing. Both people are safe. The offender acknowledges the harm (not required for forgiveness, but necessary for genuine reconciliation). There is a real commitment to change, not just words." },
+        { "type": "bodyBold", "label": "When reconciliation is not possible:", "text": "The other person is unwilling or unsafe. The harm is ongoing and unacknowledged. Returning would put you or your family in danger. In these cases, forgiveness is still your responsibility. Reconciliation is not. Romans 12:18 gives you that out — “if it is possible, as far as it depends on you.”" },
+
+        { "type": "heading", "text": "Discussion Questions (10–15 minutes)" },
+        { "type": "question", "num": 1, "question": "[Workbook #1] “Before this lesson, did you think forgiveness and reconciliation were the same thing? How do you see the difference now?” Ask students to share what they wrote.", "coaching": "Most people use the two words interchangeably. The distinction matters because people avoid forgiving because they think it means going back to the way things were. It doesn't. Forgiveness is about you and God. Reconciliation is about you and the other person." },
+        { "type": "question", "num": 2, "question": "[Workbook #2] “Read Romans 12:18. Paul says 'if it is possible' and 'as far as it depends on you.' Is there a relationship in your life where reconciliation isn't possible right now? What makes it impossible?” Let volunteers share. Don't press anyone.", "coaching": "Safety, distance, the other person's refusal, death. All valid. The point is that Paul acknowledged the limitation. You don't have to carry guilt for a reconciliation that isn't in your power." },
+        { "type": "question", "num": 3, "question": "[Workbook #3] “Read Matthew 5:23–24. Jesus says to go even when the other person has something against you. Is there someone who might have something against you right now — even if you think they're wrong?” Ask a few to share.", "coaching": "This flips the script. Most of us think about who we need to forgive. Jesus asks who might need to forgive us. That's a harder question. It requires humility and self-awareness." },
+        { "type": "question", "num": 4, "question": "[Workbook #4] “In Philemon, Paul stands in the middle between two people. Have you ever had someone do that for you — or been that person for someone else?” Ask students to share.", "coaching": "A mediator. An advocate. An elder, a friend, a family member who cared enough about both sides to get involved. Sometimes reconciliation doesn't happen without someone willing to stand in the gap. If the class doesn't have examples, ask: is there a relationship you know of where that kind of advocacy is needed?" },
+        { "type": "question", "num": 5, "question": "[Workbook #5] “Is there a relationship in your life right now where you've forgiven but haven't reconciled — or where you need to start the process?” Students wrote yes or no and a sentence. Let volunteers share.", "coaching": "This is the action question. Some will be ready. Some won't. Encourage the ones who are ready. Be gentle with the ones who aren't. The series is planting seeds that may not bloom for months." },
+        { "type": "question", "num": 6, "question": "[Workbook #6] “What's one concrete step you could take this week — a conversation, a letter, a prayer — toward reconciliation with someone?” Ask students to share their step.", "coaching": "Be specific. “I need to forgive my sister” is a feeling. “I'm going to call my sister on Thursday” is a step. Help people move from intention to action, but only where they're willing." },
+
+        { "type": "heading", "text": "Closing Thought (2 minutes)" },
+        { "type": "body", "text": "This series started with God's forgiveness — a gift so large it can't be measured. We looked at the cost of holding onto grudges. We sat with Joseph and the prodigal's father and asked what forgiveness costs the one who gives it. And now, here at the end, the question is: what are you going to do with what you've received?" },
+        { "type": "body", "text": "To close, ask the class:" },
+        { "type": "closingPrompt", "text": "“Who in your life needs to hear — from you — that the door is still open?”", "instruction": "Let the room sit with that. Then speak from your own heart — use whichever of these resonates with you personally:" },
+        { "type": "closingBullet", "label": "It might be a first step.", "text": "Some of you have someone you haven't spoken to in years. The thought of reaching out feels impossible. But Jesus said leave your gift at the altar and go. He didn't say wait until you feel ready. He said go. A text. A voicemail. A letter. Something that says: I'm here, and the door is open." },
+        { "type": "closingBullet", "label": "It might be an honest conversation.", "text": "Some of you have relationships that are technically intact but hollow — you see each other at holidays, you keep it surface-level, but the real stuff has never been addressed. Matthew 18 says go privately. Not to accuse. Not to win. To restore. That conversation is terrifying. It's also the only path back to something real." },
+        { "type": "closingBullet", "label": "It might be acceptance.", "text": "Some of you have done everything you can. You've forgiven. You've reached out. You've kept the door open. And the other person has chosen not to walk through it. Romans 12:18 says “as far as it depends on you.” You've done your part. Let go of the guilt. You can't reconcile alone, and you don't have to." },
+        { "type": "closingNotes", "count": 5 },
+
+        { "type": "heading", "text": "Take-Home Challenge" },
+        { "type": "body", "text": "This is the final challenge of the series. Look back at the three weeks of challenges — the paper in the trash, the prayer by name, the unsent letter. Now: is there one step you can take toward actual reconciliation this week? It might be making the call. It might be writing the letter and actually sending it. It might be asking someone to mediate. Or it might be praying for the peace to accept that you've done what you can. Whatever the step is, write it down. Tell someone — a friend, a spouse, someone in this class. And take it." }
+      ]
+    }
+  ]
+}
