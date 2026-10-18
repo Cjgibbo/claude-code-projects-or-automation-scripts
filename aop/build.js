@@ -9,8 +9,10 @@
  *   node build.js prayer-drawing-near-to-god tg
  *
  * Products:
- *   tg  — Teacher's Guide
- *   sw  — Student Workbook
+ *   tg      — Teacher's Guide (ALEXANDER / STONE & SCROLL)
+ *   sw      — Student Workbook (ALEXANDER / STONE & SCROLL)
+ *   mustard — Guided Workbook (MUSTARD)
+ *   key     — Leader's Answer Key insert (MUSTARD)
  *
  * Output goes to: output/<series-slug>-<product>.docx
  */
@@ -23,7 +25,19 @@ const PRODUCTS = {
     label: "Teacher's Guide",
     builder: () => require('./engine/tg-builder').buildTeachersGuide,
   },
-  sw: { label: 'Student Workbook', builder: () => require('./engine/sw-builder').buildStudentWorkbook },
+  sw: {
+    label: 'Student Workbook',
+    builder: () => require('./engine/sw-builder').buildStudentWorkbook,
+  },
+  mustard: {
+    label: 'Guided Workbook (MUSTARD)',
+    builder: () => require('./engine/mustard-builder').buildMustardWorkbook,
+  },
+  key: {
+    label: "Leader's Answer Key (MUSTARD)",
+    builder: () => require('./engine/mustard-key-builder').buildAnswerKey,
+    noCatalog: true,   // answer key doesn't use the catalog
+  },
 };
 
 async function main() {
@@ -53,11 +67,13 @@ async function main() {
   const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'));
 
   // Build
-  const { label, builder } = PRODUCTS[product];
-  console.log(`Building ${label}: ${content.meta.title} — ${content.meta.subtitle}`);
+  const { label, builder, noCatalog } = PRODUCTS[product];
+  console.log(`Building ${label}: ${content.meta.title}${content.meta.subtitle ? ' — ' + content.meta.subtitle : ''}`);
 
   const build = builder();
-  const buffer = await build(content, catalog);
+  const buffer = noCatalog
+    ? await build(content)
+    : await build(content, catalog);
 
   // Write output
   const outDir = path.join(__dirname, 'output');
